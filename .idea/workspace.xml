@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b179684f-9c20-4229-b895-292381ad7242" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chap02/fivetimes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap02/printrandom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap02/yourname.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03/guessthenumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03/magic8balls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03/samename.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03/zerodivide.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,40 +15,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Automate_The_Boring_Stuff_With_Python$guessthenumber.coverage" NAME="guessthenumber Coverage Results" MODIFIED="1550034101537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap03" />
     <SUITE FILE_PATH="coverage/Automate_The_Boring_Stuff_With_Python$hello.coverage" NAME="hello Coverage Results" MODIFIED="1549957021695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap01" />
+    <SUITE FILE_PATH="coverage/Automate_The_Boring_Stuff_With_Python$magic8balls.coverage" NAME="magic8balls Coverage Results" MODIFIED="1550019191769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap03" />
     <SUITE FILE_PATH="coverage/Automate_The_Boring_Stuff_With_Python$yourname.coverage" NAME="yourname Coverage Results" MODIFIED="1549958889434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap02" />
     <SUITE FILE_PATH="coverage/Automate_The_Boring_Stuff_With_Python$vampire.coverage" NAME="vampire Coverage Results" MODIFIED="1549957040871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap02" />
+    <SUITE FILE_PATH="coverage/Automate_The_Boring_Stuff_With_Python$zerodivide.coverage" NAME="zerodivide Coverage Results" MODIFIED="1550033993041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap03" />
     <SUITE FILE_PATH="coverage/Automate_The_Boring_Stuff_With_Python$printrandom.coverage" NAME="printrandom Coverage Results" MODIFIED="1550018197744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap02" />
     <SUITE FILE_PATH="coverage/Automate_The_Boring_Stuff_With_Python$fivetimes.coverage" NAME="fivetimes Coverage Results" MODIFIED="1549961959264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap02" />
+    <SUITE FILE_PATH="coverage/Automate_The_Boring_Stuff_With_Python$samename.coverage" NAME="samename Coverage Results" MODIFIED="1550021503803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap03" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap02/yourname.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap02/fivetimes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap02/printrandom.py">
+        <entry file="file://$PROJECT_DIR$/chap03/guessthenumber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="456">
+              <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -72,14 +56,18 @@
         <option value="$PROJECT_DIR$/chap02/yourname.py" />
         <option value="$PROJECT_DIR$/chap02/fivetimes.py" />
         <option value="$PROJECT_DIR$/chap02/printrandom.py" />
+        <option value="$PROJECT_DIR$/chap03/magic8balls.py" />
+        <option value="$PROJECT_DIR$/chap03/samename.py" />
+        <option value="$PROJECT_DIR$/chap03/zerodivide.py" />
+        <option value="$PROJECT_DIR$/chap03/guessthenumber.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1380" />
+    <option name="height" value="782" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -100,7 +88,7 @@
             <path>
               <item name="Automate-The-Boring-Stuff-With-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Automate-The-Boring-Stuff-With-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="chap02" type="462c0819:PsiDirectoryNode" />
+              <item name="chap03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -115,6 +103,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guang\Documents\GitHub\Automate-The-Boring-Stuff-With-Python" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -127,8 +120,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.printrandom">
-    <configuration name="fivetimes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.guessthenumber">
+    <configuration name="guessthenumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Automate-The-Boring-Stuff-With-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,12 +129,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap02/fivetimes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap03/guessthenumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="magic8balls" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Automate-The-Boring-Stuff-With-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,12 +151,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap01/hello.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap03/magic8balls.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vampire" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="samename" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Automate-The-Boring-Stuff-With-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,12 +195,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap02/vampire.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap03/samename.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="yourname" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zerodivide" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Automate-The-Boring-Stuff-With-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,12 +217,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap02/yourname.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap03/zerodivide.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.guessthenumber" />
+        <item itemvalue="Python.zerodivide" />
+        <item itemvalue="Python.samename" />
+        <item itemvalue="Python.magic8balls" />
         <item itemvalue="Python.printrandom" />
-        <item itemvalue="Python.fivetimes" />
-        <item itemvalue="Python.yourname" />
-        <item itemvalue="Python.vampire" />
-        <item itemvalue="Python.hello" />
       </list>
     </recent_temporary>
   </component>
@@ -264,12 +257,12 @@
       <workItem from="1549952446168" duration="249000" />
       <workItem from="1549952741560" duration="35000" />
       <workItem from="1549952868616" duration="133000" />
-      <workItem from="1549953077771" duration="5743000" />
+      <workItem from="1549953077771" duration="14560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7462000" />
+    <option name="totallyTimeSpent" value="16279000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -295,9 +288,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3290993" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3290993" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.32786885" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.32786885" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -348,6 +341,34 @@
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap03/samename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap03/magic8balls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap03/zerodivide.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap03/guessthenumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
         </state>
       </provider>
     </entry>
